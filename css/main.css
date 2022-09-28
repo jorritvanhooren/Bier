@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    font-family: Verdana;
+}
+
+.inspring{
+    margin-left: 40px;
+}
+
+strong{
+    color: rgb(200, 100, 0);
+}
+
+i{
+    font-size: larger;
+}
